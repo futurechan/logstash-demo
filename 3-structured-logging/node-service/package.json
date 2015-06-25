@@ -1,0 +1,17 @@
+{
+  "name": "node-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.4.0",
+    "bunyan-logstash-tcp": "^0.3.4",
+    "express": "^4.13.0",
+    "morgan": "^1.6.0"
+  }
+}

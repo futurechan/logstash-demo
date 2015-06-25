@@ -1,0 +1,9 @@
+{
+	"logger":{
+		"name":"3-structured-logging",
+		"logstashTcp":{
+			"host": "127.0.0.1",
+			"port": 5505
+		}
+	}
+}

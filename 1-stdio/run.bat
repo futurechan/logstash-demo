@@ -1,0 +1,1 @@
+%LS_HOME%\bin\logstash.bat agent -f %CD%\conf
